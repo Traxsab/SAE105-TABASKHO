@@ -367,6 +367,9 @@ header nav span {
   margin-bottom: 25px;
   padding: 25px;
 }
+.mikasa {
+  padding: 25px;
+}
 
 .character-description {
   color: var(--beige);
